@@ -42,6 +42,3 @@ The app is not intended for children under 13 and does not knowingly collect dat
 
 We may update this policy from time to time. The "Last updated" date at the top reflects the current version.
 
-## Contact
-
-For questions about this policy or the app: zhangxumou@gmail.com
